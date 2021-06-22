@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brainfuck.md",
+            "file": "Shocker.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "987f98affd93c96e",
+        "id": "9bf517c58eacafd8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brainfuck.md",
+            "file": "Shocker.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 454,
+    "collapsed": true
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brainfuck.md",
+                "file": "Shocker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +100,12 @@
   },
   "active": "6f4356b1b969c945",
   "lastOpenFiles": [
+    "Shocker.md",
     "Brainfuck.md",
-    "Pasted image 20210622153533.png",
+    "img/Pasted image 20210622231127.png",
+    "img/Pasted image 20210622201757.png",
     "Lame.md",
-    "Untitled.md"
+    "Untitled.md",
+    "Pasted image 20210622153533.png"
   ]
 }
