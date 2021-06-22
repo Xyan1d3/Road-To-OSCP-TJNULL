@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "ed8ea55c321650af",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f4356b1b969c945",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Brainfuck.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "987f98affd93c96e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Brainfuck.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "234dfaeaf62187fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "443be71f5848d519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1588909be88fdb45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d26094e30dd4bd1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e377e49b32dc4135",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b44ec28ac2bf39b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5403fdaa59d431f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Brainfuck.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6f4356b1b969c945",
+  "lastOpenFiles": [
+    "Brainfuck.md",
+    "Pasted image 20210622153533.png",
+    "Lame.md",
+    "Untitled.md"
+  ]
+}
