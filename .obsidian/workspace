@@ -7,8 +7,11 @@
         "id": "6f4356b1b969c945",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "00 - Checklist.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 - Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "6f4356b1b969c945",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Traverxec.md",
     "00 - Checklist.md",
-    "Blue.md",
+    "Bashed.md",
+    "Traverxec.md",
     "Shocker.md",
     "Legacy.md",
     "Lame.md",
     "Brainfuck.md",
-    "img/Pasted image 20210623154111.png",
-    "img/Pasted image 20210622231127.png"
+    "Blue.md",
+    "Untitled.md",
+    "img/Pasted image 20210623154111.png"
   ]
 }

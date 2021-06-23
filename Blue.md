@@ -1,6 +1,6 @@
 # Blue
 >Author : Xyan1d3
->Date : 23nd June 2021
+>Date : 23rd June 2021
 >IP : 10.10.10.40
 >OS : Windows
 >Difficulty : Easy
