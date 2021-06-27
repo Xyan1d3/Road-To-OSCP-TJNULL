@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "00 - Checklist.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -90,14 +89,14 @@
   "active": "6f4356b1b969c945",
   "lastOpenFiles": [
     "00 - Checklist.md",
+    "Devel.md",
+    "Blue.md",
+    "Untitled.md",
     "Nibbles.md",
     "Bashed.md",
-    "Untitled.md",
     "Traverxec.md",
     "Shocker.md",
     "Legacy.md",
-    "Lame.md",
-    "Brainfuck.md",
-    "Blue.md"
+    "Lame.md"
   ]
 }

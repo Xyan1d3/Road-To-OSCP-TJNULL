@@ -9,3 +9,4 @@
 |Traverxec|Linux Debian Buster|23/06/2021|Easy|<ul><li>Nostromo 1.9.6 Exploitation</li><li>public_www directory in the user `~david`</li><li>Journalctl terminal shrink exploit</li></ul>|
 |Bashed|Linux Ubuntu 16.04.2 Xenial|24/06/2021|Easy|<ul><li>PHPBash Exploitation</li><li>Sudo Nopasswd ALL</li><li>Cron python script Exploitation</li></ul>|
 |Nibbles|Linux Ubuntu 16.04.3 Xenial|27/06/2021|Easy|<ul><li>Simple php upload in image upload(No Bypass)</li><li>Sudo Nopasswd on a bash script on the home dir of regular user</li></ul>|
+|Devel|Windows 7 Enterprise x86 Build 7600|27/06/2021|Easy|<ul><li>IIS `www-data` hosted as anonymous FTP with write access</li><li>MS11-046 Exploitation to `NT Authority/SYSTEM`</li></ul>|
