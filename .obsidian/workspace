@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -89,14 +90,14 @@
   "active": "6f4356b1b969c945",
   "lastOpenFiles": [
     "00 - Checklist.md",
+    "Nibbles.md",
     "Bashed.md",
+    "Untitled.md",
     "Traverxec.md",
     "Shocker.md",
     "Legacy.md",
     "Lame.md",
     "Brainfuck.md",
-    "Blue.md",
-    "Untitled.md",
-    "img/Pasted image 20210623154111.png"
+    "Blue.md"
   ]
 }
