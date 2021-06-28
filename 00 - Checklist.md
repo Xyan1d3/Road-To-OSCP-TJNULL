@@ -12,3 +12,4 @@
 |Devel|Windows 7 Enterprise x86 Build 7600|27/06/2021|Easy|<ul><li>IIS `www-data` hosted as anonymous FTP with write access</li><li>`MS11-046` Exploitation to `NT Authority/SYSTEM`</li></ul>|
 |Optimum|Windows Server 2012 R2 x64|28/06/2021|Easy|<ul><li>Exploiting Rejetto HttpFileServer 2.3 URCE</li><li>Exploiting `MS16-098` to get `NT Authority/SYSTEM`</li></ul>|
 |Bastard|Windows Server 2008 R2 Datacenter x64|28/06/2021|Medium|<ul><li>Exploiting Drupal `7.54` with Drupalgeddon2</li><li>Privilege Escalation with `MS10-059`(`Chimmichurri`)</li></ul>|
+|Granny|Windows Server 2003 SP2 x86|29/06/2021|Easy|<ul><li>Exploiting IIS 6.0 WebDav BufferOverflow</li><li>Privilege Escalation by exploiting `MS09-012`</li></ul>|
