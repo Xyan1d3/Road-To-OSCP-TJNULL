@@ -9,6 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Optimum.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d5313fb9697a4fee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "00 - Checklist.md",
             "mode": "source"
           }
@@ -52,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -86,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f4356b1b969c945",
+  "active": "d5313fb9697a4fee",
   "lastOpenFiles": [
     "00 - Checklist.md",
-    "Devel.md",
-    "Blue.md",
-    "Untitled.md",
+    "Optimum.md",
     "Nibbles.md",
+    "Devel.md",
+    "Untitled.md",
+    "Blue.md",
     "Bashed.md",
     "Traverxec.md",
     "Shocker.md",
-    "Legacy.md",
-    "Lame.md"
+    "Legacy.md"
   ]
 }
