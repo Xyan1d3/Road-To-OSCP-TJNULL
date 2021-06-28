@@ -4,18 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6f4356b1b969c945",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Optimum.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d5313fb9697a4fee",
+        "id": "feec55947a96ee4f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -63,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -98,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5313fb9697a4fee",
+  "active": "feec55947a96ee4f",
   "lastOpenFiles": [
     "00 - Checklist.md",
+    "Bastard.md",
     "Optimum.md",
+    "Blue.md",
+    "Untitled.md",
     "Nibbles.md",
     "Devel.md",
-    "Untitled.md",
-    "Blue.md",
     "Bashed.md",
     "Traverxec.md",
-    "Shocker.md",
-    "Legacy.md"
+    "Shocker.md"
   ]
 }
