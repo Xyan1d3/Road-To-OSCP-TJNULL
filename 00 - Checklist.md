@@ -14,3 +14,4 @@
 |Bastard|Windows Server 2008 R2 Datacenter x64|28/06/2021|Medium|<ul><li>Exploiting Drupal `7.54` with Drupalgeddon2</li><li>Privilege Escalation with `MS10-059`(`Chimmichurri`)</li></ul>|
 |Granny|Windows Server 2003 SP2 x86|29/06/2021|Easy|<ul><li>Exploiting IIS 6.0 WebDav BufferOverflow</li><li>Privilege Escalation by exploiting `MS09-012`</li></ul>|
 |Silo|Windows Server 2012 R2 Standard Build 9600 x64|29/06/2021|Medium|<ul><li>Oracle Database exploitation with `odat`</li></ul>|
+|Beep|CentOS 5.6|30/06/2021|Easy|<ul><li>LFI in PBX Elastix</li><li>SSH No exchange Algorithms(Old SSH Version)</li></ul>|
