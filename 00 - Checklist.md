@@ -16,3 +16,4 @@
 |Silo|Windows Server 2012 R2 Standard Build 9600 x64|29/06/2021|Medium|<ul><li>Oracle Database exploitation with `odat`</li></ul>|
 |Beep|CentOS 5.6|30/06/2021|Easy|<ul><li>LFI in PBX Elastix</li><li>SSH No exchange Algorithms(Old SSH Version)</li></ul>|
 |Cronos|Linux Ubuntu 16.04.2 Xenial|30/06/2021|Medium|<ul><li>`dig`ing to find out domains</li><li>Cron Exploitation `root` exec `www-data` writable</li></ul>|
+|Nineveh|Linux Ubuntu 16.04.2 Xenial|02/07/2021|Medium|<ul><li>Hydra Post-form brutforce on http & https</li><li>Stego on an image with `binwalk`</li><li>Port Knocking firewall 3 ports to SYN to open `22/tcp`</li><li>chkrootkit exploitation for root escalation</li></ul>|
