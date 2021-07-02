@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nineveh.md",
+            "file": "00 - Checklist.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nineveh.md",
+                "file": "00 - Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
-    "Nineveh.md",
     "00 - Checklist.md",
+    "Sense.md",
+    "Bashed.md",
+    "Untitled.md",
+    "Nineveh.md",
     "Devel.md",
     "Silo.md",
     "Arctic_Skipped.md",
     "Nibbles.md",
-    "Bashed.md",
-    "Untitled.md",
-    "Cronos.md",
-    "beep.md"
+    "Cronos.md"
   ]
 }
