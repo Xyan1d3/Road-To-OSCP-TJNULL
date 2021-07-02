@@ -17,4 +17,5 @@
 |Beep|CentOS 5.6|30/06/2021|Easy|<ul><li>LFI in PBX Elastix</li><li>SSH No exchange Algorithms(Old SSH Version)</li></ul>|
 |Cronos|Linux Ubuntu 16.04.2 Xenial|30/06/2021|Medium|<ul><li>`dig`ing to find out domains</li><li>Cron Exploitation `root` exec `www-data` writable</li></ul>|
 |Nineveh|Linux Ubuntu 16.04.2 Xenial|02/07/2021|Medium|<ul><li>Hydra Post-form brutforce on http & https</li><li>Stego on an image with `binwalk`</li><li>Port Knocking firewall 3 ports to SYN to open `22/tcp`</li><li>chkrootkit exploitation for root escalation</li></ul>|
-|Sense|FreeBSD 8.3-RELEASE-p16|02/07/2021|Easy|<ul><li>Fuzzing for txt files on webserver to find out a file with creds to pfsense router</li><li>pfsense router version `2.1.3` vulnerable to RCE to root</li></ul>|
+|Sense|FreeBSD 8.3-RELEASE-p16|02/07/2021|Easy|<ul><li>Fuzzing for txt files on webserver to find out a file with creds to pfsense router</li><li>pfsense router version `2.1.3` vulnerable to RCE to root</li></ul>|\
+|Solidstate|Linux Debian 9 Strech|02/07/2021|Medium|<ul><li>Exploiting Apache JAMES with default creds and reseting all POP3 account creds</li><li>POP3 Enumeration</li><li>Escaping rbash SSH</li><li>Cron Exploitation</li></ul>|

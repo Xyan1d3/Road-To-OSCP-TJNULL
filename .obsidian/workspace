@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -89,14 +90,14 @@
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
     "00 - Checklist.md",
+    "SolidState.md",
+    "Optimum.md",
+    "Cronos.md",
+    "Untitled.md",
     "Sense.md",
     "Bashed.md",
-    "Untitled.md",
     "Nineveh.md",
     "Devel.md",
-    "Silo.md",
-    "Arctic_Skipped.md",
-    "Nibbles.md",
-    "Cronos.md"
+    "Silo.md"
   ]
 }
