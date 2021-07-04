@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "00 - Checklist.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -90,14 +89,14 @@
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
     "00 - Checklist.md",
+    "Node.md",
+    "Cronos.md",
+    "img/Pasted image 20210703205233.png",
+    "Untitled.md",
     "SolidState.md",
     "Optimum.md",
-    "Cronos.md",
-    "Untitled.md",
     "Sense.md",
     "Bashed.md",
-    "Nineveh.md",
-    "Devel.md",
-    "Silo.md"
+    "Nineveh.md"
   ]
 }
