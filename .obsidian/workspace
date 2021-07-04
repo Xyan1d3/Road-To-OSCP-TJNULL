@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 - Checklist.md",
+            "file": "Valentine.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Checklist.md",
+                "file": "Valentine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
-    "00 - Checklist.md",
     "Valentine.md",
+    "00 - Checklist.md",
     "Bashed.md",
     "Untitled.md",
     "Node.md",
