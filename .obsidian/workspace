@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Valentine.md",
-            "mode": "source"
+            "file": "00 - Checklist.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valentine.md",
+                "file": "00 - Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
-    "Valentine.md",
     "00 - Checklist.md",
-    "Bashed.md",
+    "Poison.md",
+    "SolidState.md",
+    "Nineveh.md",
     "Untitled.md",
+    "Valentine.md",
+    "Bashed.md",
     "Node.md",
     "Cronos.md",
-    "img/Pasted image 20210703205233.png",
-    "SolidState.md",
-    "Optimum.md",
-    "Sense.md"
+    "img/Pasted image 20210703205233.png"
   ]
 }
