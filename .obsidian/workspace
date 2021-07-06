@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -90,14 +89,14 @@
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
     "00 - Checklist.md",
+    "Jarvis.md",
+    "Cronos.md",
+    "Untitled.md",
     "Networked.md",
     "img/Pasted image 20210707000019.png",
     "Lame.md",
     "Swagshop.md",
-    "Untitled.md",
     "Bashed.md",
-    "Sunday_Skipped.md",
-    "Friendzone_Skipped.md",
-    "Arctic_Skipped.md"
+    "Sunday_Skipped.md"
   ]
 }
