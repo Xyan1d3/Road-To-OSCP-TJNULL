@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -89,14 +90,14 @@
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
     "00 - Checklist.md",
-    "Irked.md",
-    "Bashed.md",
-    "Untitled.md",
-    "Tartarsauce.md",
-    "Poison.md",
-    "Brainfuck.md",
+    "Networked.md",
+    "img/Pasted image 20210707000019.png",
     "Lame.md",
-    "SolidState.md",
-    "Nineveh.md"
+    "Swagshop.md",
+    "Untitled.md",
+    "Bashed.md",
+    "Sunday_Skipped.md",
+    "Friendzone_Skipped.md",
+    "Arctic_Skipped.md"
   ]
 }
