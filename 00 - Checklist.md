@@ -22,3 +22,4 @@
 |Node|Linux Ubuntu 16.04.3 Xenial|05/07/2021|Medium|<ul><li>Exploiting Node.js application due to exposing of creds on an api</li><li>Node.js scheduler app uses mongo to execute a command from a key</li><li>Root escalation with `ret2libc` or wildcard injection with `/roo*/roo*`,`/roo?/ro??.txt` & `/roo[a-z]/roo[a-z].txt`</li></ul>|
 |Valentine|Linux Ubuntu 12.04 Precise|05/07/2021|Easy|<ul><li>Exploiting SSL Heartbleed attack</li><li>Attaching to tmux session socket</li></ul>|
 |Poison|FreeBSD|05/07/2021|Medium|<ul><li>Discovering php file that lists file in `www-data` to leak pass to SSH</li><li>Using junk file to vnc into the box by tunneling</li></ul>|
+|Tartarsauce|Linux Ubuntu 16.04.4 Xenial|06/07/2021|Medium|<ul><li>Gwolle-gb RFI exploitation</li><li>sudo user escalation tar</li><li>tar archive symlink injection</li></ul>|
