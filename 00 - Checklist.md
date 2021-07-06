@@ -23,3 +23,4 @@
 |Valentine|Linux Ubuntu 12.04 Precise|05/07/2021|Easy|<ul><li>Exploiting SSL Heartbleed attack</li><li>Attaching to tmux session socket</li></ul>|
 |Poison|FreeBSD|05/07/2021|Medium|<ul><li>Discovering php file that lists file in `www-data` to leak pass to SSH</li><li>Using junk file to vnc into the box by tunneling</li></ul>|
 |Tartarsauce|Linux Ubuntu 16.04.4 Xenial|06/07/2021|Medium|<ul><li>Gwolle-gb RFI exploitation</li><li>sudo user escalation tar</li><li>tar archive symlink injection</li></ul>|
+|Irked|Linux Debian 8 Jessie|06/06/2021|Easy|<ul><li>Exploiting Unreal IRCd</li><li>Setuid binary systeming a file</li></ul>|
