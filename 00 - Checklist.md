@@ -26,3 +26,4 @@
 |Irked|Linux Debian 8 Jessie|06/07/2021|Easy|<ul><li>Exploiting Unreal IRCd</li><li>Setuid binary systeming a file</li></ul>|
 |Networked|Linux CentOS 7|07/07/2021|Easy|<ul><li>Image upload bypass with mime, `GIF89a` and `php.png`</li><li>php cron unsafe data shoved in system</li><li>Bash network script injection</li></ul>|
 |Jarvis|Linux Debian 9 Strech|07/07/2021|Medium|<ul><li>SQLi with sqlmap os-shell after bypassing WAF with User-Agent check</li><li>bypassing bad character filtering and shoving to ping command</li><li>Setuid on systemctl</li></ul>|
+|Mirai|Linux Debian 8 Jessie|07/07/2021|Easy|<ul><li>Using default creds of raspberry pi</li><li>Recovering deleted `root.txt` with `grep`</li></ul>|
