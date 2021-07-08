@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Popcorn.md",
-            "mode": "source"
+            "file": "00 - Checklist.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Popcorn.md",
+                "file": "00 - Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
-    "Popcorn.md",
     "00 - Checklist.md",
+    "Haircut.md",
+    "Cronos.md",
+    "Untitled.md",
+    "Popcorn.md",
     "img/Pasted image 20210708014537.png",
     "Bashed.md",
-    "Untitled.md",
     "Mirai.md",
     "Jarvis.md",
-    "Cronos.md",
-    "Networked.md",
-    "img/Pasted image 20210707000019.png"
+    "Networked.md"
   ]
 }

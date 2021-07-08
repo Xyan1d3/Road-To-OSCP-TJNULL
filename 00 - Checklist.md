@@ -28,3 +28,4 @@
 |Jarvis|Linux Debian 9 Strech|07/07/2021|Medium|<ul><li>SQLi with sqlmap os-shell after bypassing WAF with User-Agent check</li><li>bypassing bad character filtering and shoving to ping command</li><li>Setuid on systemctl</li></ul>|
 |Mirai|Linux Debian 8 Jessie|07/07/2021|Easy|<ul><li>Using default creds of raspberry pi</li><li>Recovering deleted `root.txt` with `grep`</li></ul>|
 |Popcorn|Linux Ubuntu 9.10 Karmic|08/07/2021|Medium|<ul><li>Php image upload bypass torrent hoster</li><li>Motd legal exploit or Dirty Cow</li></ul>|
+|Haircut|Linux Ubuntu 16.04.2 Xenial|08/07/2021|Medium|<ul><li>Website shoves url to a curl request with poor filtering where backtick and $ works</li><li>Suid on Screen-4.5.0</li></ul>|
