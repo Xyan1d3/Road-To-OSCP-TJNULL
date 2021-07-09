@@ -30,3 +30,4 @@
 |Popcorn|Linux Ubuntu 9.10 Karmic|08/07/2021|Medium|<ul><li>Php image upload bypass torrent hoster</li><li>Motd legal exploit or Dirty Cow</li></ul>|
 |Haircut|Linux Ubuntu 16.04.2 Xenial|08/07/2021|Medium|<ul><li>Website shoves url to a curl request with poor filtering where backtick and $ works</li><li>Suid on Screen-4.5.0</li></ul>|
 |Blocky|Linux Ubuntu 16.04.2 Xenial|09/07/2021|Easy|<ul><li>Discovering a jar file and decompiling it with `JD-GUI` and getting creds</li><li>sudo `ALL=(ALL)`</li></ul>|
+|Frolic|Linux Ubuntu 16.04.4 Xenial|09/07/2021|Easy|<ul><li>Huge cipher enumeration and playsms exploitation with csv injection</li><li>ret2libc exploit as suid with ASLR disabled</li></ul>|
