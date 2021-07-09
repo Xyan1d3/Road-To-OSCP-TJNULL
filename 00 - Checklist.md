@@ -32,3 +32,4 @@
 |Blocky|Linux Ubuntu 16.04.2 Xenial|09/07/2021|Easy|<ul><li>Discovering a jar file and decompiling it with `JD-GUI` and getting creds</li><li>sudo `ALL=(ALL)`</li></ul>|
 |Frolic|Linux Ubuntu 16.04.4 Xenial|09/07/2021|Easy|<ul><li>Huge cipher enumeration and playsms exploitation with csv injection</li><li>ret2libc exploit as suid with ASLR disabled</li></ul>|
 |Jerry|Windows Server 2012 R2|10/07/2021|Easy|<ul><li>Tomcat default creds manager war upload shell as `NT Authority/SYSTEM`</li></ul>|
+|Bounty|Windows Server 2008 R2|10/07/2021|Easy|<ul><li>Bypassing file upload of by uploading `web.config` instead of asp/aspx</li><li>MS10-059 to `NT Authority/SYSTEM`</li></ul>|
