@@ -37,3 +37,4 @@
 |Chatterbox|Windows 7 SP1 build 7601 x86|11/07/2021|Medium|<ul><li>AChat prewritten BufferOverflow Exploit</li><li>`icacls` to change the ownership of the `root.txt`</li></ul>|
 |Bastion|Windows Server 2016 build 14393|11/07/2021|Easy|<ul><li>Mounting a `vhd` file on linux from smb</li><li>mRemoteng password decrypt / Print Nightmare</li></ul>|
 |Curling|Linux Ubuntu 18.04 Bionic|12/07/2021|Easy|<ul><li>Web comment enumeration to login to joomla and template poisoning</li><li>`curl -K` on file exploitation</li></ul>|
+|Access|Windows Server 2008 R2|12/07/2021|Easy|<ul><li>Microsoft Access Database file enumeration `mdb`</li><li>Outlook mailbox backup enumeration `mbox` and `pst`</li><li>Runas escalation with saved credentials</li></ul>|
