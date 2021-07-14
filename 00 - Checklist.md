@@ -38,3 +38,4 @@
 |Bastion|Windows Server 2016 build 14393|11/07/2021|Easy|<ul><li>Mounting a `vhd` file on linux from smb</li><li>mRemoteng password decrypt / Print Nightmare</li></ul>|
 |Curling|Linux Ubuntu 18.04 Bionic|12/07/2021|Easy|<ul><li>Web comment enumeration to login to joomla and template poisoning</li><li>`curl -K` on file exploitation</li></ul>|
 |Access|Windows Server 2008 R2|12/07/2021|Easy|<ul><li>Microsoft Access Database file enumeration `mdb`</li><li>Outlook mailbox backup enumeration `mbox` and `pst`</li><li>Runas escalation with saved credentials</li></ul>|
+|Sizzle|Windows Server 2016|14/07/2021|Insane|<ul><li>`scf` file upload to public desktop and responder hash</li><li>Powershell Constrained Language and Applocker bypass</li><li>Kerberoasting & DCSync</li></ul>|

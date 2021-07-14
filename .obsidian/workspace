@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 - Checklist.md",
-            "mode": "source"
+            "file": "Sizzle.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Checklist.md",
+                "file": "Sizzle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
+    "Sizzle.md",
     "00 - Checklist.md",
     "Access.md",
+    "Untitled.md",
     "Bastard.md",
     "Bashed.md",
     "Bankrobber.md",
-    "Untitled.md",
     "Curling.md",
     "Bastion.md",
-    "Brainfuck.md",
-    "ChatterBox.md"
+    "Brainfuck.md"
   ]
 }
