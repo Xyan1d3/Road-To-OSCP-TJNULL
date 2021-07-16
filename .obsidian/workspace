@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 273,
+    "collapsed": true
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -89,14 +90,14 @@
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
     "00 - Checklist.md",
+    "Mantis.md",
+    "img/Pasted image 20210716211954.png",
+    "Access.md",
+    "Untitled.md",
     "Writeup.md",
     "Curling.md",
-    "Untitled.md",
     "Resolute.md",
     "05-Arctic_Skipped.md",
-    "Access.md",
-    "Sizzle.md",
-    "Bastard.md",
-    "Bashed.md"
+    "Sizzle.md"
   ]
 }

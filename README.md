@@ -41,3 +41,4 @@
 |Sizzle|Windows Server 2016|14/07/2021|Insane|<ul><li>`scf` file upload to public desktop and responder hash</li><li>Powershell Constrained Language and Applocker bypass</li><li>Kerberoasting & DCSync</li></ul>|
 |Resolute|Windows Server 2016|16/07/2021|Medium|<ul><li>RPC Enumeration from description</li><li>Hidden files in `C:\`</li><li>`DNS Admins` group Escalation</li></ul>|\
 |Writeup|Debian Strech|16/07/2021|Easy|<ul><li>CMS made Simple SQLi</li>PATH Injection vulnerability<li></li></ul>|
+|Mantis|Windows Server 2008|16/07/2021|Hard|<ul><li>`MS-SQL` Enumeration with `mssqlclient.py` and extracting credentials</li><li>Abusing `MS14-068` using impacket's `GoldenPac.py`</li></ul>|
