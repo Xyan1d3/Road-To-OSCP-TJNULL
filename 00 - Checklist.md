@@ -42,3 +42,4 @@
 |Resolute|Windows Server 2016|16/07/2021|Medium|<ul><li>RPC Enumeration from description</li><li>Hidden files in `C:\`</li><li>`DNS Admins` group Escalation</li></ul>|\
 |Writeup|Debian Strech|16/07/2021|Easy|<ul><li>CMS made Simple SQLi</li>PATH Injection vulnerability<li></li></ul>|
 |Mantis|Windows Server 2008|16/07/2021|Hard|<ul><li>`MS-SQL` Enumeration with `mssqlclient.py` and extracting credentials</li><li>Abusing `MS14-068` using impacket's `GoldenPac.py`</li></ul>|
+|Mango|Linux Ubuntu 18.04.2 Bionic|17/07/2021|Medium|<ul><li>`No-SQL` regex injection to dump creds</li><li>Exploiting Setuid with `jjs`</li></ul>|
