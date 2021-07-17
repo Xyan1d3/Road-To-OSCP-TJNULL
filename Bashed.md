@@ -2,7 +2,7 @@
 >Author : Xyan1d3
 >Date : 24th June 2021
 >IP : 10.10.10.68
->OS : Linux
+>OS : Windows
 >Difficulty : Easy
 # Initial Enumeration
 ## Nmap

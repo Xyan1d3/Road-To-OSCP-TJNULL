@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mango.md",
+            "file": "Bashed.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mango.md",
+                "file": "Bashed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
-    "Mango.md",
-    "00 - Checklist.md",
-    "img/Pasted image 20210709141535.png",
-    "Blocky.md",
-    "Brainfuck.md",
-    "Access.md",
-    "Bankrobber.md",
     "Bashed.md",
+    "Access.md",
+    "Bastard.md",
+    "00 - Checklist.md",
+    "Nest.md",
+    "Blocky.md",
+    "Silo.md",
     "Untitled.md",
-    "Mantis.md"
+    "Mango.md",
+    "img/Pasted image 20210709141535.png"
   ]
 }
