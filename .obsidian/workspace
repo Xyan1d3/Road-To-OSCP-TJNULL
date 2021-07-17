@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 - Checklist.md",
+            "file": "Mango.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273,
-    "collapsed": true
+    "width": 273
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Checklist.md",
+                "file": "Mango.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +88,8 @@
   },
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
-    "00 - Checklist.md",
     "Mango.md",
+    "00 - Checklist.md",
     "img/Pasted image 20210709141535.png",
     "Blocky.md",
     "Brainfuck.md",
