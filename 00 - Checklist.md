@@ -45,3 +45,4 @@
 |Mango|Linux Ubuntu 18.04.2 Bionic|17/07/2021|Medium|<ul><li>`No-SQL` regex injection to dump creds</li><li>Exploiting Setuid with `jjs`</li></ul>|
 |Nest|Windows Server 2008 R2|17/07/2021|Easy|<ul><li>SMB Enumeration</li><li>`VB.Net` and `C#` code analyzing</li></ul>|
 |Jeeves|Windows 10 Pro build 10586|18/07/2021|<ul><li>Jenkins Shell with No Login</li><li>Juicy Potato to `NT Authority/SYSTEM`</li></ul>|
+|Devoops|Linux Ubuntu 16.04.4 Xenial|18/07/2021|<ul><li>XXE Injection</li><li>Git commit history Enumeration</li></ul>|
