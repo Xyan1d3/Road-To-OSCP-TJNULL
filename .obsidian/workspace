@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bashed.md",
+            "file": "00 - Checklist.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bashed.md",
+                "file": "00 - Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
-    "Bashed.md",
-    "Access.md",
-    "Bastard.md",
     "00 - Checklist.md",
+    "Jevees.md",
+    "Access.md",
+    "Untitled.md",
+    "Bashed.md",
+    "Bastard.md",
     "Nest.md",
     "Blocky.md",
     "Silo.md",
-    "Untitled.md",
-    "Mango.md",
-    "img/Pasted image 20210709141535.png"
+    "Mango.md"
   ]
 }
