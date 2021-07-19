@@ -47,3 +47,4 @@
 |Jeeves|Windows 10 Pro build 10586|18/07/2021|<ul><li>Jenkins Shell with No Login</li><li>Juicy Potato to `NT Authority/SYSTEM`</li></ul>|
 |Devoops|Linux Ubuntu 16.04.4 Xenial|18/07/2021|<ul><li>XXE Injection</li><li>Git commit history Enumeration</li></ul>|
 |Registry|Linux Ubuntu 18.04.3 Bionic|18/07/2021|<ul><li>Docker Registry Enumeration</li><li>Bolt CMS Enumeration</li><li>User to `www-data` descalation</li><li>sudo nopasswd on `restic` </li></ul>|
+|Reel|Windows Active Directory|19/07/2021|<ul><li>RTF Dynamite</li><li>AppLocker Bypass</li><li>BloodHound Enumaeration</li><li>Using `Powerview.ps1` to abuse `WriteOwner`, `WriteDACL`, `GenericWrite` privileges/ACL's</li></ul>|
