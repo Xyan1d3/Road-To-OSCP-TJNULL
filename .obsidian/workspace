@@ -4,33 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "679b87fec3654369",
-        "type": "split",
-        "children": [
-          {
-            "id": "feec55947a96ee4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Checklist.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c37e2ec969cf6ef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reel.md",
-                "mode": "preview"
-              }
-            }
+        "id": "feec55947a96ee4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 - Checklist.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "f615791f0e8cc3e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cascade.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -70,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 273,
+    "collapsed": true
   },
   "right": {
     "id": "e377e49b32dc4135",
@@ -107,14 +101,14 @@
   "active": "feec55947a96ee4f",
   "lastOpenFiles": [
     "00 - Checklist.md",
-    "Reel.md",
+    "Cascade.md",
     "Registry.md",
-    "Devoops.md",
-    "Untitled.md",
-    "Mantis.md",
     "Bastard.md",
-    "Jevees.md",
-    "Access.md",
-    "Bashed.md"
+    "Bashed.md",
+    "Untitled.md",
+    "Reel.md",
+    "Devoops.md",
+    "Mantis.md",
+    "Jevees.md"
   ]
 }
