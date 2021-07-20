@@ -50,3 +50,4 @@
 |Reel|Windows Active Directory|19/07/2021|<ul><li>RTF Dynamite</li><li>AppLocker Bypass</li><li>BloodHound Enumaeration</li><li>Using `Powerview.ps1` to abuse `WriteOwner`, `WriteDACL`, `GenericWrite` privileges/ACL's</li></ul>|
 |Cascade|Windows Active Directory|20/07/2021|<ul><li>Anonymous LDAP Enumeration to find password</li><li>C# Binary Reverse Enggineering</li><li>`AD Recycle Bin` group Abuse</li></ul>|
 |Rabbit|Windows Server 2008|20/07/2021|<ul><li>Complaint Management System SQL injection with `sqlmap`</li><li>Microsoft OWA 2010 otf exploit phishing</li><li>Exploiting `wamp` server running as `NT Authority/SYSTEM` by creating a php file in `www`</li></ul>|
+|Toolbox|Debian 10 Buster|20/07/2021|<ul><li>SQLi to `sqlmap` and `--os-shell`</li><li>boot2docker abuse</li></ul>|
