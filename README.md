@@ -44,10 +44,11 @@
 |Mantis|Windows Server 2008|16/07/2021|Hard|<ul><li>`MS-SQL` Enumeration with `mssqlclient.py` and extracting credentials</li><li>Abusing `MS14-068` using impacket's `GoldenPac.py`</li></ul>|
 |Mango|Linux Ubuntu 18.04.2 Bionic|17/07/2021|Medium|<ul><li>`No-SQL` regex injection to dump creds</li><li>Exploiting Setuid with `jjs`</li></ul>|
 |Nest|Windows Server 2008 R2|17/07/2021|Easy|<ul><li>SMB Enumeration</li><li>`VB.Net` and `C#` code analyzing</li></ul>|
-|Jeeves|Windows 10 Pro build 10586|18/07/2021|<ul><li>Jenkins Shell with No Login</li><li>Juicy Potato to `NT Authority/SYSTEM`</li></ul>|
-|Devoops|Linux Ubuntu 16.04.4 Xenial|18/07/2021|<ul><li>XXE Injection</li><li>Git commit history Enumeration</li></ul>|
-|Registry|Linux Ubuntu 18.04.3 Bionic|18/07/2021|<ul><li>Docker Registry Enumeration</li><li>Bolt CMS Enumeration</li><li>User to `www-data` descalation</li><li>sudo nopasswd on `restic` </li></ul>|
-|Reel|Windows Active Directory|19/07/2021|<ul><li>RTF Dynamite</li><li>AppLocker Bypass</li><li>BloodHound Enumaeration</li><li>Using `Powerview.ps1` to abuse `WriteOwner`, `WriteDACL`, `GenericWrite` privileges/ACL's</li></ul>|
-|Cascade|Windows Active Directory|20/07/2021|<ul><li>Anonymous LDAP Enumeration to find password</li><li>C# Binary Reverse Enggineering</li><li>`AD Recycle Bin` group Abuse</li></ul>|
-|Rabbit|Windows Server 2008|20/07/2021|<ul><li>Complaint Management System SQL injection with `sqlmap`</li><li>Microsoft OWA 2010 otf exploit phishing</li><li>Exploiting `wamp` server running as `NT Authority/SYSTEM` by creating a php file in `www`</li></ul>|
-|Toolbox|Debian 10 Buster|20/07/2021|<ul><li>SQLi to `sqlmap` and `--os-shell`</li><li>boot2docker abuse</li></ul>|
+|Jeeves|Windows 10 Pro build 10586|18/07/2021|Medium|<ul><li>Jenkins Shell with No Login</li><li>Juicy Potato to `NT Authority/SYSTEM`</li></ul>|
+|Devoops|Linux Ubuntu 16.04.4 Xenial|18/07/2021|Medium|<ul><li>XXE Injection</li><li>Git commit history Enumeration</li></ul>|
+|Registry|Linux Ubuntu 18.04.3 Bionic|18/07/2021|Hard|<ul><li>Docker Registry Enumeration</li><li>Bolt CMS Enumeration</li><li>User to `www-data` descalation</li><li>sudo nopasswd on `restic` </li></ul>|
+|Reel|Windows Active Directory|19/07/2021|Hard|<ul><li>RTF Dynamite</li><li>AppLocker Bypass</li><li>BloodHound Enumaeration</li><li>Using `Powerview.ps1` to abuse `WriteOwner`, `WriteDACL`, `GenericWrite` privileges/ACL's</li></ul>|
+|Cascade|Windows Active Directory|20/07/2021|Medium|<ul><li>Anonymous LDAP Enumeration to find password</li><li>C# Binary Reverse Enggineering</li><li>`AD Recycle Bin` group Abuse</li></ul>|
+|Rabbit|Windows Server 2008|20/07/2021|Insane|<ul><li>Complaint Management System SQL injection with `sqlmap`</li><li>Microsoft OWA 2010 otf exploit phishing</li><li>Exploiting `wamp` server running as `NT Authority/SYSTEM` by creating a php file in `www`</li></ul>|
+|Toolbox|Debian 10 Buster|20/07/2021|Easy|<ul><li>SQLi to `sqlmap` and `--os-shell`</li><li>boot2docker abuse</li></ul>|
+|Ariekei|Ubuntu 16.04.3 Xenial|21/07/2021|Insane|<ul><li>Docker Mesh Enumeration</li><li>Docker Group Abuse</li></ul>|
