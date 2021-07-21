@@ -52,3 +52,4 @@
 |Rabbit|Windows Server 2008|20/07/2021|Insane|<ul><li>Complaint Management System SQL injection with `sqlmap`</li><li>Microsoft OWA 2010 otf exploit phishing</li><li>Exploiting `wamp` server running as `NT Authority/SYSTEM` by creating a php file in `www`</li></ul>|
 |Toolbox|Debian 10 Buster|20/07/2021|Easy|<ul><li>SQLi to `sqlmap` and `--os-shell`</li><li>boot2docker abuse</li></ul>|
 |Ariekei|Ubuntu 16.04.3 Xenial|21/07/2021|Insane|<ul><li>Docker Mesh Enumeration</li><li>Docker Group Abuse</li></ul>|
+|Jail|CentOS 7.3|22/07/2021|Insane|<ul><li>Socket Reuse BufferOverflow</li><li>NFS with no root squashing</li><li>Custom Wordlist</li><li>Weak RSA key use `Restoring SSH Private Key from Public Key`</li></ul>|
